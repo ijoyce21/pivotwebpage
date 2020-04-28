@@ -1,0 +1,15 @@
+{
+  "name": "git-training",
+  "version": "1.0.0",
+  "description": "my webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ijoyce21/pivotwebpage"
+  },
+  "author": "ivana joyce",
+  "license": "ISC"
+}

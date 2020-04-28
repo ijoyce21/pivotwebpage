@@ -1,15 +1,17 @@
 {
-  "name": "git-training",
+  "name": "express_website",
   "version": "1.0.0",
-  "description": "my webpage",
-  "main": "index.js",
+  "description": "Simple website",
+  "main": "app.js",
   "scripts": {
-    "test": "npm run"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/ijoyce21/pivotwebpage"
-  },
-  "author": "ivana joyce",
-  "license": "ISC"
+  "author": "Brad Traversy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "nodemailer": "^6.4.6"
+  }
 }
